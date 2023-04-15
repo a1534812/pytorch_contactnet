@@ -1,4 +1,6 @@
-[github page](https://github.com/alinasarmiento/pytorch_contactnet.git)
+自用，有个问题：不知道作者读的npy里怎么存的，nvidia官方的6-DoF graspnet以及contact graspnet的npy都对不上。暂时没空搞这个，下次一定XD
+
+原作者的github：[github page](https://github.com/alinasarmiento/pytorch_contactnet.git)
 
 # Pytorch Contact-GraspNet
 Pytorch implementation of Contact-GraspNet. Original Tensorflow implementation can be found at: https://github.com/NVlabs/contact_graspnet
